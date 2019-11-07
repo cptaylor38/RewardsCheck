@@ -1,0 +1,79 @@
+{
+    "customers": [
+        {
+            "Name": "John Smith",
+            "id": 1,
+            "transactionHistory": [
+                {
+                    "January": [
+                        {
+                            "total": 327.29
+                        },
+                        {
+                            "total": 127.89
+                        },
+                        {
+                            "total": 27.59
+                        }
+                    ]
+                },
+                {
+                    "February": [
+                        {
+                            "total": 151.22
+                        },
+                        {
+                            "total": 172.33
+                        },
+                        {
+                            "total": 1223.28
+                        }
+                    ]
+                },
+                {
+                    "March": [
+                        {
+                            "total": 78.23
+                        },
+                        {
+                            "total": 57.39
+                        },
+                        {
+                            "total": 98.38
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Brian Rogers",
+            "id": 2,
+            "transactionHistory": [
+                {
+                    "January": [
+                        {
+                            "total": 327.29
+                        }
+                    ]
+                },
+                {
+                    "February": [
+                        {
+                            "total": 151.22
+                        },
+                        {
+                            "total": 172.33
+                        }
+                    ]
+                },
+                {
+                    "March": [
+                        {
+                            "total": 78.23
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
