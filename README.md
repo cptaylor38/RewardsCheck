@@ -11,6 +11,8 @@ To run -
 
 clone repo
 
+cd client/
+
 npm install 
 
 npm start
